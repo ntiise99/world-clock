@@ -1,9 +1,5 @@
 body {
-  background: linear-gradient(
-    to right,
-    rgb(14, 21, 0) 9.4%,
-    rgb(115, 64, 0) 78.4%
-  );
+  background: linear-gradient(to right, #dfd3c3);
   font-family: "Open Sans", sans-serif;
 }
 .container {
